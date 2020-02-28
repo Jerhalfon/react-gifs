@@ -19,6 +19,4 @@ handleUpdate = (event) => {
     }
 }
 
-
-
 export default Navbar;
